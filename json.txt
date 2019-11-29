@@ -1,0 +1,1 @@
+[{"name":"jack","male":"false","score":[{"chinese":"60","math":"70","english":"80"}]},{"name":"tom","male":"true","score":[{"chinese":"80","math":"60","english":"100"}]}]
